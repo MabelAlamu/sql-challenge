@@ -2,7 +2,7 @@
 
 ## Background
 
-    A research project on employees of Pewlett Hackard from the 1980s and 1990s. Using six CSV files, we will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data.
+    This repo conatins code I use to analyze a fictional company's employee database. Using six CSV files, I design tables to hold data in the CSVs, import the CSVs into a SQL database, and analyze the data.
 
 #### Data Modeling
 
@@ -37,7 +37,7 @@ With a complete database, do the following:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-## Optional
+## Additional Analysis
 
 1. Import the SQL database into Pandas. Be sure to make any necessary modifications for your username, password, host, port, and database name:
     * Consult [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/latest/core/engines.html#postgresql) for more information.
