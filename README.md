@@ -2,7 +2,7 @@
 
 ## Background
 
-    This repo conatins code I use to analyze a fictional company's employee database. Using six CSV files, I design tables to hold data in the CSVs, import the CSVs into a SQL database, and analyze the data.
+  This repo conatins code I use to analyze a fictional company's employee database. Using six CSV files, I design tables to hold data in the CSVs, import the CSVs into a SQL database, and analyze the data.
 
 ## Data Modeling
 
