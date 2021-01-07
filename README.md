@@ -39,7 +39,7 @@ With a complete database, do the following:
 
 ## Additional Analysis
 
-1. Import the SQL database into Pandas. (Yes, you could read the CSVs directly in Pandas, but you are, after all, trying to prove your technical mettle.) This step may require some research. Feel free to use the code below to get started. Be sure to make any necessary modifications for your username, password, host, port, and database name:
+1. Import the SQL database into Pandas. Feel free to use the code below to get started. Be sure to make any necessary modifications for your username, password, host, port, and database name:
 
    ```sql
    from sqlalchemy import create_engine
@@ -49,6 +49,7 @@ With a complete database, do the following:
     * Consult [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/latest/core/engines.html#postgresql) for more information.
 
 2. Create a histogram to visualize the most common salary ranges for employees.
+
   ![](EmployeeSQL/Common%20Salary%20Ranges.png)
 
 
