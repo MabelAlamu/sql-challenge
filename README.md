@@ -49,8 +49,8 @@ With a complete database, do the following:
     * Consult [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/latest/core/engines.html#postgresql) for more information.
 
 2. Create a histogram to visualize the most common salary ranges for employees.
-    ![](EmployeeSQL/Common%20Salary%20Ranges.png)
+  ![](EmployeeSQL/Common%20Salary%20Ranges.png)
 
 
 3. Create a bar chart of average salary by title.
-    ![](EmployeeSQL/Average%20Salary%20by%20Title.png)
+  ![](EmployeeSQL/Average%20Salary%20by%20Title.png)
