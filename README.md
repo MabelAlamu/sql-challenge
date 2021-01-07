@@ -52,5 +52,10 @@ With a complete database, do the following:
   ![](EmployeeSQL/Common%20Salary%20Ranges.png)
 
 
+
+
+
+
+
 3. Create a bar chart of average salary by title.
   ![](EmployeeSQL/Average%20Salary%20by%20Title.png)
